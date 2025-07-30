@@ -42,19 +42,19 @@ This project is a **Java-based ticket booking system** that simulates the core f
 
    ```bash
    cd IRCTC
-   ```
+```
 
 3. **Compile the code**
 
    ```bash
    javac Main.java
-   ```
+```
 
 4. **Run the project**
 
    ```bash
    java Main
-   ```
+```
 
 ---
 
