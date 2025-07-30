@@ -60,14 +60,14 @@ This project is a **Java-based ticket booking system** that simulates the core f
 
 ## 🗂️ Project Structure
 
-```
+---
 IRCTC/
 ├── Main.java
 ├── Booking.java
 ├── Passenger.java
 ├── Train.java
 ├── Ticket.java
-```
+---
 
 ---
 
