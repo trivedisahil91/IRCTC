@@ -1,90 +1,94 @@
-# 🚆 IRCTC Railway Ticket Booking System
+---
 
-This project is a **Java-based ticket booking system** that simulates the core functionalities of the IRCTC railway reservation platform. Users can **book tickets, cancel them, check availability, and view passenger details** using a console-based interface. The application uses core Java concepts like OOP, collections, exception handling, and input/output streams.
+# 👨‍💻 IRCTC Railway Ticket Booking System
+
+This is a **Java-based console application** that simulates a simplified **IRCTC Railway Ticket Booking System**. The project allows users to **book tickets, cancel bookings, view passenger details, and check seat availability** (Confirmed, RAC, and Waiting List). It demonstrates key Java concepts like OOP, collections, I/O streams, and exception handling.
 
 ---
 
 ## 📌 Features
 
-- Book and cancel train tickets
-- View all booked passenger details
-- Check seat availability (Confirmed, RAC, Waiting List)
-- Menu-driven and user-friendly command-line interface
+* 🚆 Book and cancel train tickets
+* 👥 View all booked passenger details
+* 📊 Check seat availability (Confirmed, RAC, Waiting List)
+* 🧾 Menu-driven command-line interface
 
 ---
 
-## 🧰 Technologies Used
+## 💼 Technologies Used
 
-- 💻 Java (JDK 8 or higher)
-- OOPs Concepts
-- Java Collections
-- Exception Handling
-- Java I/O Streams
+* ☕ Java (JDK 8 or higher)
+* 🔄 OOPs Concepts
+* 📚 Java Collections
+* ⚠️ Exception Handling
+* 📂 Java I/O Streams
 
 ---
 
 ## ✅ Requirements
 
-- Java JDK 8 or above
-- Command line or terminal
-- Java-compatible IDE (Eclipse, IntelliJ, VS Code) – optional
+* Java JDK 8 or above
+* Command line or terminal
+* Java-compatible IDE (Eclipse, IntelliJ, VS Code) – optional
+
+---
+
+## 📁 Project Structure
+
+```
+IRCTC/
+│
+├── Main.java                 # Entry point of the application
+├── Booking.java              # Handles booking logic
+├── Cancellation.java         # Handles cancellation logic
+├── Passenger.java            # Represents passenger entity
+├── TicketBooker.java         # Core logic for seat allocation
+└── README.md                 # Project documentation
+```
 
 ---
 
 ## 🚀 How to Run
 
-1. **Clone the repository**  
+1. **Clone the repository**
+
    ```bash
    git clone https://github.com/trivedisahil91/IRCTC.git
-````
+   ```
 
-2. **Navigate to the directory**
+2. **Navigate to the project directory**
 
    ```bash
    cd IRCTC
-```
+   ```
 
-3. **Compile the code**
+3. **Compile the project**
 
    ```bash
    javac Main.java
-```
+   ```
 
-4. **Run the project**
+4. **Run the application**
 
    ```bash
    java Main
-```
+   ```
+
+> You'll see a menu in the console to book tickets, cancel bookings, or view passengers.
 
 ---
 
-## 🗂️ Project Structure
-
----
-IRCTC/
-├── Main.java
-├── Booking.java
-├── Passenger.java
-├── Train.java
-├── Ticket.java
----
-
----
-
-## 🧑‍💻 Developed By
+## 🙋‍♂️ Author
 
 **Sahil Trivedi**
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/trivedi-sahil-5212002b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/trivedi-sahil-5212002b0)
 
 ---
 
-## 📃 License
+Let me know if you'd like to also add:
 
-This project is open-source and free to use for learning and educational purposes.
+* ✅ Sample input/output demo
+* 🎥 YouTube video or drive video link
+* 🧪 Unit testing details (if applicable)
+* 📝 License section
 
-```
-
----
-
-If you'd like, I can also help convert this into a file you can upload to GitHub directly.
-```
