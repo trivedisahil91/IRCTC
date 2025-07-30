@@ -1,8 +1,3 @@
-Thanks! Here's the **final README.md** file for your **IRCTC Ticket Booking System** project with your full LinkedIn link added properly:
-
----
-
-````markdown
 # 🚆 IRCTC Railway Ticket Booking System
 
 This project is a **Java-based ticket booking system** that simulates the core functionalities of the IRCTC railway reservation platform. Users can **book tickets, cancel them, check availability, and view passenger details** using a console-based interface. The application uses core Java concepts like OOP, collections, exception handling, and input/output streams.
