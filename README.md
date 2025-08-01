@@ -84,11 +84,7 @@ IRCTC/
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/trivedi-sahil-5212002b0)
 
 ---
+### Thanks to visit repository  
 
-Let me know if you'd like to also add:
-
-* ✅ Sample input/output demo
-* 🎥 YouTube video or drive video link
-* 🧪 Unit testing details (if applicable)
-* 📝 License section
+---
 
